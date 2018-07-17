@@ -1,0 +1,7 @@
+#menubar{height:50px;}
+.menuitem{width:70px;float:left;padding:5px;box-sizing:border-box;}
+#menucontainer{width:320px; float:right;}
+#uid{margin-left:74px;}
+#pass{margin-left:60px;}
+.sub{margin-left: 14%; margin-top: 2%;}
+.msg{color:red;}
